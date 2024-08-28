@@ -125,7 +125,8 @@ Embora opcional, usar uma IDE pode facilitar o processo de desenvolvimento e exe
 #### Clonar o Repositório do Projeto
 Se o código do projeto estiver em um repositório Git, você pode cloná-lo usando o seguinte comando
 
-![Captura de tela 2024-08-28 164056](https://github.com/user-attachments/assets/d01caad4-352e-4026-a00d-b310980d7755)
+![Captura de tela 2024-08-28 155925](https://github.com/user-attachments/assets/36a056f2-558d-4e81-ab44-696f69f6a141)
+
 
 
 #### Instalação das Dependências
@@ -138,6 +139,7 @@ Esse comando vai baixar todas as dependências necessárias que estão listadas 
 
 #### Configuração do Banco de Dados
 Verifique o arquivo 'application.properties' ou 'application.yml' na pasta 'src/main/resources/' para garantir que as configurações de banco de dados estão corretas:
+
 ![Captura de tela 2024-08-28 160845](https://github.com/user-attachments/assets/8571d253-a70f-4222-87fc-4210febd1189)
 
 
